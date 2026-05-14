@@ -140,9 +140,6 @@ Mutual_Fund_Analysis_Project/
 
 ---
 
-## Screenshots
-(Add your Power BI dashboard screenshots here)
-
 ---
 
 ## How to Run the Project
@@ -180,7 +177,4 @@ Sabdar abbas
 
 ## Connect With Me
 ### LinkedIn
-(Add your LinkedIn profile link)
-
-### GitHub
-(Add your GitHub profile link)
+https://www.linkedin.com/in/sabdarabbas/
